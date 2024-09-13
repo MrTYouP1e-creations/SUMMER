@@ -83,7 +83,7 @@ body{
   }
 
 
-  .animal1 {
+  .plant1 {
     background-color: #660033;
     font-family: Arial, sans-serif;
     display: flex;
@@ -95,12 +95,12 @@ body{
     box-sizing: border-box;
     color: #6699ff;
   }
-  .animal1_title {
+  .plant1_title {
     font-size: 50px;
     color: #000066;
     padding-left: 152px;
   }
-  .animal1_info {
+  .plant1_info {
     margin-bottom: 40px;
     color: #9966ff;
     max-width: 600px;
@@ -109,7 +109,7 @@ body{
     padding-left: 214px;
     margin-top: 40px;
   }
-  .animal1_vievmore {
+  .plant1_vievmore {
     background-color: #e91e63;
     color: white;
     padding: 10px 20px;
@@ -120,7 +120,7 @@ body{
     margin-top: 125px;
   }
   
-  .animal1_image {
+  .plant1_image {
     align-self: flex-end;
     position: absolute;
     margin-right: 40px;
@@ -131,7 +131,7 @@ body{
     text-decoration: none;
   }
 
-  .animal2 {
+  .plant2 {
     background-color: #660033;
     font-family: Arial, sans-serif;
     display: flex;
@@ -143,12 +143,12 @@ body{
     box-sizing: border-box;
     color: #6699ff;
   }
-  .animal2_title {
+  .plant2_title {
     font-size: 50px;
     color: #000066;
     padding-left: 152px;
   }
-  .animal2_info {
+  .plant2_info {
     margin-bottom: 40px;
     color: #9966ff;
     max-width: 600px;
@@ -157,7 +157,7 @@ body{
     padding-left: 214px;
     margin-top: 40px;
   }
-  .animal2_vievmore {
+  .plant2_vievmore {
     background-color: #e91e63;
     color: white;
     padding: 10px 20px;
@@ -168,14 +168,14 @@ body{
     margin-top: 125px;
   }
   
-  .animal2_image {
+  .plant2_image {
     align-self: flex-end;
     position: absolute;
     margin-right: 40px;
     width: 600px;
   }
 
-  .animal3 {
+  .plant3 {
     background-color: #660033;
     font-family: Arial, sans-serif;
     display: flex;
@@ -187,12 +187,12 @@ body{
     box-sizing: border-box;
     color: #6699ff;
   }
-  .animal3_title {
+  .plant3_title {
     font-size: 50px;
     color: #000066;
     padding-left: 152px;
   }
-  .animal3_info {
+  .plant3_info {
     margin-bottom: 40px;
     color: #9966ff;
     max-width: 600px;
@@ -201,7 +201,7 @@ body{
     padding-left: 214px;
     margin-top: 40px;
   }
-  .animal3_vievmore {
+  .plant3_vievmore {
     background-color: #e91e63;
     color: white;
     padding: 10px 20px;
@@ -212,14 +212,14 @@ body{
     margin-top: 125px;
   }
   
-  .animal3_image {
+  .plant3_image {
     align-self: flex-end;
     position: absolute;
     margin-right: 40px;
     width: 600px;
   }
   
-  .animal4 {
+  .plant4 {
     background-color: #660033;
     font-family: Arial, sans-serif;
     display: flex;
@@ -231,12 +231,12 @@ body{
     box-sizing: border-box;
     color: #6699ff;
   }
-  .animal4_title {
+  .plant4_title {
     font-size: 50px;
     color: #000066;
     padding-left: 152px;
   }
-  .animal4_info {
+  .plant4_info {
     margin-bottom: 40px;
     color: #9966ff;
     max-width: 600px;
@@ -245,7 +245,7 @@ body{
     padding-left: 214px;
     margin-top: 40px;
   }
-  .animal4_vievmore {
+  .plant4_vievmore {
     background-color: #e91e63;
     color: white;
     padding: 10px 20px;
@@ -256,7 +256,7 @@ body{
     margin-top: 125px;
   }
   
-  .animal4_image {
+  .plant4_image {
     align-self: flex-end;
     position: absolute;
     margin-right: 40px;
